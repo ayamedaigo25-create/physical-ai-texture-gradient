@@ -1,0 +1,13 @@
+{
+  "split": "train",
+  "episode": 1,
+  "seed": 11396687549427669615,
+  "model": "experiment_cube",
+  "commanded_position": {
+    "x": 0.014941221563166823,
+    "y": -0.061439657319105986,
+    "z": 1.06
+  },
+  "timestamp_utc": "2026-11-01T01:48:20.382578+00:00",
+  "validation": "visibility and grasp reachability not yet checked"
+}

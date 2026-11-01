@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+install/
+log/
+*.mp4
+*.zip
+*.pt
+*.pth
+*.ckpt
+
+# Backup files
+*.bak
+*.backup
+*.before_*
+*_backup.py
+
+# Large or generated experiment artifacts
+results/**/*.mp4
+results/**/*.zip

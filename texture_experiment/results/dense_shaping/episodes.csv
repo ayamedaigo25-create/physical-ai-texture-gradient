@@ -1,0 +1,8 @@
+condition,seed,episode,total_steps,episode_steps,episode_reward,sim_seconds,success
+dense,42,1,18,18,-8.6e-05,31.231,False
+dense,42,2,36,18,-0.02337,30.769,False
+dense,42,3,52,16,-0.027714,30.705,False
+dense,42,4,71,19,0.068509,30.605,False
+dense,42,5,90,19,0.020331,30.924,False
+dense,42,6,107,17,-0.029759,31.544,False
+dense,42,7,124,17,0.007357,30.448,False

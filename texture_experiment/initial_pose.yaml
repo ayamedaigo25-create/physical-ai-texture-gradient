@@ -1,0 +1,5 @@
+initial_observation_pose:
+  crane_plus_joint1: 0.0
+  crane_plus_joint2: -1.16
+  crane_plus_joint3: -2.01
+  crane_plus_joint4: -1.40

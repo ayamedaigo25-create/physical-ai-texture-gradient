@@ -1,0 +1,8 @@
+condition,seed,episode,total_steps,episode_steps,episode_reward,sim_seconds,success
+medium,42,1,18,18,-0.001594,31.48,False
+medium,42,2,35,17,-0.029275,30.076,False
+medium,42,3,52,17,-0.028944,30.17,False
+medium,42,4,69,17,0.05332,30.504,False
+medium,42,5,88,19,0.031907,31.508,False
+medium,42,6,105,17,-0.009668,30.03,False
+medium,42,7,122,17,-0.027515,31.354,False
